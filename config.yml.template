@@ -1,0 +1,9 @@
+# URI for Port traffic information
+port_uri: http://example.com/wpds/wpds.asp
+
+# Google Calendar ID
+calendar_id: aaaaaaaaaaaaaaaaaaaaaaaaaa@group.calendar.google.com
+
+# JSON file including OAuth2 credentials
+# Download it from Google Developers Console
+credential_store_file: oauth2.json
